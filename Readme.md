@@ -1,5 +1,5 @@
 # Houing Haven
-![housiong haven](https://github.com/TranTheRichard/HousingHaven/assets/117712881/475c1b3b-1b5b-4f9f-990c-1c76fdf215ec)
+![GitHub Logo](/housiong haven.jpeg) 
 
 ##
 ## What is Hosuing Haven
