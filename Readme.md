@@ -7,7 +7,7 @@
 Housing Haven is a project developed by a group of college students who want to help people find affordable places to live with the assistance of Generative AI.
 
 ## Why Housing Haven
-Living in California can be very costly nowadays, and finding an affordable place is even harder to find now. However, with Housing Haven, users can find affordable places to live in your area based on the information they provide. Housing Haven also helps users find local government assistants based on the information they put in. Additionally, Housing haven also features a chat box that highlights users top priorities based on what information the user gives.
+Living in California can be very costly nowadays, and finding an affordable place is even harder to find now. However, with Housing Haven, users can find affordable places to live in your area based on the information they provide. Housing Haven also helps users find local government assistants based in California, Housing haven also features a chat box that highlights users top priorities based on what information the user gives. While also allowing users to make profiles with the use of audio recording. We would also like to note that the profile would be used for a future feature that would match potential roommates.
 
 ## Our Solution
 Our App has 3 main features the first being the AI chatbot that would highlight user needs. The second one would allow users to record themselves and create a profile with that recording. The last option would be a map that showcases local government assistance in the local area of San Jose. When creating this project we took AI ethics very seriously and made sure that our group was transparent on what we are doing with the information put in.
